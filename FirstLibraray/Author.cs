@@ -11,6 +11,11 @@ namespace FirstLibraray
        public int ID;
        public string Name;
 
+       /// <summary>
+       /// Author
+       /// </summary>
+       /// <param name="id">The ID value</param>
+       /// <param name="name">The name of the author.</param>
         public Author(int id, string name = "")
         {
             ID = id;
