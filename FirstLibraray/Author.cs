@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace FirstLibraray
 {
+    //  TODO: Change class to Person (will need to update references).
+    //  TODO: Add a new Account to represent a library account for a person (will neeed ID and Person as required in the constructor).
     public class Author
     {
        public int ID;
